@@ -1,0 +1,33 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {american}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\normalfont {Plan of Approach: Setting up HR Policies in a startup in Curitiba, Brazil}}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Situational Description}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The company}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The product}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Problem Orientation}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Client needs}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{General problem}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{The choice of client}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Research Objective}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Research questions}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Methodology}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Speaking to Instok employees}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Peer company research}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Literature research}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Chronograph}{9}
