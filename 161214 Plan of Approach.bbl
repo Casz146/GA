@@ -1,0 +1,383 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{BAILEY2008}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6b4866567e7f4585bd3200807cb473fa}{%
+           family={Bailey},
+           familyi={B\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Family Practice}%
+      }
+      \strng{namehash}{6b4866567e7f4585bd3200807cb473fa}
+      \strng{fullhash}{6b4866567e7f4585bd3200807cb473fa}
+      \strng{authornamehash}{6b4866567e7f4585bd3200807cb473fa}
+      \strng{authorfullhash}{6b4866567e7f4585bd3200807cb473fa}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Family Practice}
+      \field{month}{2}
+      \field{title}{First steps in qualitative data analysis: transcribing}
+      \field{volume}{25}
+      \field{year}{2008}
+      \field{pages}{127\bibrangedash 131}
+      \range{pages}{5}
+    \endentry
+    \entry{BAKEREDWARDS2012}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=5330d673ef0d3044ee266136248ddf11}{%
+           family={Baker},
+           familyi={B\bibinitperiod},
+           given={Sarah\bibnamedelima Elsie},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{uniquename=0,hash=705980c22ea5367a87fd67dd8c2e1b6d}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Rosalind},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National Centre for Research Methods Review Paper}%
+      }
+      \strng{namehash}{b173babc195c884a6d26b6a9912b5faf}
+      \strng{fullhash}{b173babc195c884a6d26b6a9912b5faf}
+      \strng{authornamehash}{b173babc195c884a6d26b6a9912b5faf}
+      \strng{authorfullhash}{b173babc195c884a6d26b6a9912b5faf}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{How many qualitative interviews is enough?}
+      \field{year}{2012}
+    \endentry
+    \entry{BUCH2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f848ac2cd4644f1b6054cedd3b49b519}{%
+           family={Buch},
+           familyi={B\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f848ac2cd4644f1b6054cedd3b49b519}
+      \strng{fullhash}{f848ac2cd4644f1b6054cedd3b49b519}
+      \strng{authornamehash}{f848ac2cd4644f1b6054cedd3b49b519}
+      \strng{authorfullhash}{f848ac2cd4644f1b6054cedd3b49b519}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{10 common mistakes in StartUps - Or Why some companies make it and some don't}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://medium.com/point-nine-news/10-common-hr-mistakes-in-startups-or-why-some-companies-make-it-and-some-don-t-38b1f4bf0404#.a6tvios4n
+      \endverb
+    \endentry
+    \entry{FUNG2012}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c9214e99dd1b09891c02071b1ae24614}{%
+           family={Fung},
+           familyi={F\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9214e99dd1b09891c02071b1ae24614}
+      \strng{fullhash}{c9214e99dd1b09891c02071b1ae24614}
+      \strng{authornamehash}{c9214e99dd1b09891c02071b1ae24614}
+      \strng{authorfullhash}{c9214e99dd1b09891c02071b1ae24614}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{The 3 Thing Startup Founders Need to Know about HR}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://www.forbes.com/sites/ciocentral/2012/04/09/the-3-things-startup-founders-needs-to-know-about-hr/#7c9bd97273c4
+      \endverb
+    \endentry
+    \entry{HRCA2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=799378d4246e06bedba433ae46af9869}{%
+           family={{HRCouncil}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{799378d4246e06bedba433ae46af9869}
+      \strng{fullhash}{799378d4246e06bedba433ae46af9869}
+      \strng{authornamehash}{799378d4246e06bedba433ae46af9869}
+      \strng{authorfullhash}{799378d4246e06bedba433ae46af9869}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{HR Policies and Employment Legislation}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://hrcouncil.ca/hr-toolkit/policies-guideline.cfm
+      \endverb
+    \endentry
+    \entry{HUMBLE}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f852661330b13035b10634bc07b5e2c4}{%
+           family={Humble},
+           familyi={H\bibinitperiod},
+           given={Áine},
+           giveni={Á\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Mount Saint Vincent University}%
+      }
+      \strng{namehash}{f852661330b13035b10634bc07b5e2c4}
+      \strng{fullhash}{f852661330b13035b10634bc07b5e2c4}
+      \strng{authornamehash}{f852661330b13035b10634bc07b5e2c4}
+      \strng{authorfullhash}{f852661330b13035b10634bc07b5e2c4}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guide to Transcribing}
+    \endentry
+    \entry{RIES2011}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3ae634b261ee7bc5f734840abf4408e1}{%
+           family={Ries},
+           familyi={R\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Crown Business}%
+      }
+      \strng{namehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{fullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authornamehash}{3ae634b261ee7bc5f734840abf4408e1}
+      \strng{authorfullhash}{3ae634b261ee7bc5f734840abf4408e1}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{title}{The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses}
+      \field{year}{2011}
+    \endentry
+    \entry{SANTANA2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=aca054c2e7ce649e00f2f678da5000aa}{%
+           family={Sant’Ana},
+           familyi={S\bibinitperiod},
+           given={Jéssica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{aca054c2e7ce649e00f2f678da5000aa}
+      \strng{fullhash}{aca054c2e7ce649e00f2f678da5000aa}
+      \strng{authornamehash}{aca054c2e7ce649e00f2f678da5000aa}
+      \strng{authorfullhash}{aca054c2e7ce649e00f2f678da5000aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{Curitiba ganha nova aceleradora focada em startups de mercados bilionários}
+      \field{urlday}{10}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.eremedia.com/tlnt/new-study-the-top-10-best-practices-of-high-impact-hr-organizations/
+      \endverb
+    \endentry
+    \entry{SNELL2009}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6a6d04afb0a98e6a21f144331d9dd7de}{%
+           family={Snell},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a6d04afb0a98e6a21f144331d9dd7de}
+      \strng{fullhash}{6a6d04afb0a98e6a21f144331d9dd7de}
+      \strng{authornamehash}{6a6d04afb0a98e6a21f144331d9dd7de}
+      \strng{authorfullhash}{6a6d04afb0a98e6a21f144331d9dd7de}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{‘Wake up sleeping capital', firms urged}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.cips.org/supply-management/news/2009/december/wake-up-sleeping-capital-firms-urged/
+      \endverb
+    \endentry
+    \entry{SNL2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e33754db03bb8b73be469b8d7ffb0cc3}{%
+           family={{SNL Financial}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SNL Financial}%
+      }
+      \strng{namehash}{e33754db03bb8b73be469b8d7ffb0cc3}
+      \strng{fullhash}{e33754db03bb8b73be469b8d7ffb0cc3}
+      \strng{authornamehash}{e33754db03bb8b73be469b8d7ffb0cc3}
+      \strng{authorfullhash}{e33754db03bb8b73be469b8d7ffb0cc3}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{Fundamentals of Peer Analysis}
+      \field{year}{2013}
+    \endentry
+    \entry{THOMSON2014}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=7a0493545dd4fe2d0e82b5ce31ed7e27}{%
+           family={Thomson},
+           familyi={T\bibinitperiod},
+           given={Pat},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a0493545dd4fe2d0e82b5ce31ed7e27}
+      \strng{fullhash}{7a0493545dd4fe2d0e82b5ce31ed7e27}
+      \strng{authornamehash}{7a0493545dd4fe2d0e82b5ce31ed7e27}
+      \strng{authorfullhash}{7a0493545dd4fe2d0e82b5ce31ed7e27}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{do I have to transcribe the interviews I do?}
+      \field{urlday}{12}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://patthomson.net/2014/02/10/do-i-have-to-transcribe-the-interviews-i-do/
+      \endverb
+    \endentry
+    \entry{TOLEDO2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8255a447121467a0c91906dc7702caad}{%
+           family={{University of Toledo}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{8255a447121467a0c91906dc7702caad}
+      \strng{fullhash}{8255a447121467a0c91906dc7702caad}
+      \strng{authornamehash}{8255a447121467a0c91906dc7702caad}
+      \strng{authorfullhash}{8255a447121467a0c91906dc7702caad}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Literature Review: Lit Review Types}
+      \field{urlday}{11}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://libguides.utoledo.edu/c.php?g=284354&p=1893889
+      \endverb
+    \endentry
+    \entry{WEISSMAN2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f5155b183c08496f175f93df903622b6}{%
+           family={Weissman},
+           familyi={W\bibinitperiod},
+           given={Cale\bibnamedelima Guthrie},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f5155b183c08496f175f93df903622b6}
+      \strng{fullhash}{f5155b183c08496f175f93df903622b6}
+      \strng{authornamehash}{f5155b183c08496f175f93df903622b6}
+      \strng{authorfullhash}{f5155b183c08496f175f93df903622b6}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{The Future of HR And Why Startups Should Reject It}
+      \field{urlday}{19}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.fastcompany.com/3059673/the-future-of-hr-and-why-startups-shouldnt-reject-it
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
