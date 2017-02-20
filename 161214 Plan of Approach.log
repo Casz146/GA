@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  19 FEB 2017 20:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  20 FEB 2017 11:27
 entering extended mode
 **"./161214 Plan of Approach.tex"
 ("161214 Plan of Approach.tex"
@@ -1034,10 +1034,10 @@ Package logreq Info: Writing requests to '"161214 Plan of Approach".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12261 strings out of 493333
- 204308 string characters out of 3139199
- 686691 words of memory out of 3000000
- 15591 multiletter control sequences out of 15000+200000
+ 12263 strings out of 493333
+ 204330 string characters out of 3139199
+ 686723 words of memory out of 3000000
+ 15593 multiletter control sequences out of 15000+200000
  39776 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,10n,56p,941b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1046,7 +1046,7 @@ iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "161214 Plan of Approach.pdf" (12 pages, 102656 bytes).
+Output written on "161214 Plan of Approach.pdf" (12 pages, 102922 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
