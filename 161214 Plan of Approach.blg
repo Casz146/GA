@@ -1,27 +1,27 @@
 [0] Config.pm:354> INFO - This is Biber 2.7
 [0] Config.pm:357> INFO - Logfile is '161214 Plan of Approach.blg'
-[98] biber-MSWIN64:303> INFO - === 
-[130] Biber.pm:359> INFO - Reading '161214 Plan of Approach.bcf'
-[262] Biber.pm:835> INFO - Found 13 citekeys in bib section 0
-[285] Biber.pm:3670> INFO - Processing section 0
-[314] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[319] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
-[327] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
-[331] Utils.pm:164> WARN - month field 'December' in entry 'SNELL2009' is not an integer - this will probably not sort properly.
-[342] Utils.pm:164> WARN - month field 'April' in entry 'FUNG2012' is not an integer - this will probably not sort properly.
-[344] Utils.pm:164> WARN - month field 'May' in entry 'WEISSMAN2016' is not an integer - this will probably not sort properly.
-[347] Utils.pm:164> WARN - month field 'February' in entry 'BUCH2016' is not an integer - this will probably not sort properly.
-[349] Utils.pm:164> WARN - month field 'December' in entry 'HRCA2016' is not an integer - this will probably not sort properly.
-[353] Utils.pm:164> WARN - month field 'January' in entry 'SNL2013' is not an integer - this will probably not sort properly.
-[357] Utils.pm:164> WARN - month field 'May' in entry 'SANTANA2016' is not an integer - this will probably not sort properly.
-[359] Utils.pm:164> WARN - month field 'December' in entry 'BAKEREDWARDS2012' is not an integer - this will probably not sort properly.
-[362] Utils.pm:164> WARN - month field 'February' in entry 'BAILEY2008' is not an integer - this will probably not sort properly.
-[363] Utils.pm:164> WARN - month field 'February' in entry 'THOMSON2014' is not an integer - this will probably not sort properly.
-[365] Utils.pm:164> WARN - month field 'April' in entry 'TOLEDO2016' is not an integer - this will probably not sort properly.
-[396] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[396] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[396] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
-[397] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
-[412] bbl.pm:608> INFO - Writing '161214 Plan of Approach.bbl' with encoding 'UTF-8'
-[415] bbl.pm:712> INFO - Output to 161214 Plan of Approach.bbl
-[415] Biber.pm:109> INFO - WARNINGS: 11
+[222] biber-MSWIN64:303> INFO - === 
+[425] Biber.pm:359> INFO - Reading '161214 Plan of Approach.bcf'
+[592] Biber.pm:835> INFO - Found 13 citekeys in bib section 0
+[642] Biber.pm:3670> INFO - Processing section 0
+[782] Biber.pm:3840> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[835] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[888] bibtex.pm:1292> INFO - Found BibTeX data source 'bibliography.bib'
+[892] Utils.pm:164> WARN - month field 'December' in entry 'SNELL2009' is not an integer - this will probably not sort properly.
+[966] Utils.pm:164> WARN - month field 'April' in entry 'FUNG2012' is not an integer - this will probably not sort properly.
+[968] Utils.pm:164> WARN - month field 'May' in entry 'WEISSMAN2016' is not an integer - this will probably not sort properly.
+[970] Utils.pm:164> WARN - month field 'February' in entry 'BUCH2016' is not an integer - this will probably not sort properly.
+[971] Utils.pm:164> WARN - month field 'December' in entry 'HRCA2016' is not an integer - this will probably not sort properly.
+[974] Utils.pm:164> WARN - month field 'January' in entry 'SNL2013' is not an integer - this will probably not sort properly.
+[992] Utils.pm:164> WARN - month field 'May' in entry 'SANTANA2016' is not an integer - this will probably not sort properly.
+[994] Utils.pm:164> WARN - month field 'December' in entry 'BAKEREDWARDS2012' is not an integer - this will probably not sort properly.
+[996] Utils.pm:164> WARN - month field 'February' in entry 'BAILEY2008' is not an integer - this will probably not sort properly.
+[997] Utils.pm:164> WARN - month field 'February' in entry 'THOMSON2014' is not an integer - this will probably not sort properly.
+[999] Utils.pm:164> WARN - month field 'April' in entry 'TOLEDO2016' is not an integer - this will probably not sort properly.
+[1030] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1030] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1031] Biber.pm:3499> INFO - Sorting list 'nyt/global/' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[1031] Biber.pm:3505> INFO - No sort tailoring available for locale 'en-US'
+[1046] bbl.pm:608> INFO - Writing '161214 Plan of Approach.bbl' with encoding 'UTF-8'
+[1049] bbl.pm:712> INFO - Output to 161214 Plan of Approach.bbl
+[1050] Biber.pm:109> INFO - WARNINGS: 11
