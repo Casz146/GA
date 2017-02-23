@@ -107,6 +107,35 @@
       \verb https://medium.com/point-nine-news/10-common-hr-mistakes-in-startups-or-why-some-companies-make-it-and-some-don-t-38b1f4bf0404#.a6tvios4n
       \endverb
     \endentry
+    \entry{COY2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=651110615ec868026cc93d2937a5e7ac}{%
+           family={Coy},
+           familyi={C\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{651110615ec868026cc93d2937a5e7ac}
+      \strng{fullhash}{651110615ec868026cc93d2937a5e7ac}
+      \strng{authornamehash}{651110615ec868026cc93d2937a5e7ac}
+      \strng{authorfullhash}{651110615ec868026cc93d2937a5e7ac}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Yes, Your Startup Needs to Think About HR}
+      \field{urlday}{23}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb https://www.cornerstoneondemand.com/rework/yes-your-startup-needs-think-about-hr
+      \endverb
+    \endentry
     \entry{FUNG2012}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=c9214e99dd1b09891c02071b1ae24614}{%
@@ -185,6 +214,33 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Guide to Transcribing}
+    \endentry
+    \entry{MUMBAI2014}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ced05373d7ff2ab5039f30d4cb61763a}{%
+           family={{Mumbai Mirror}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ced05373d7ff2ab5039f30d4cb61763a}
+      \strng{fullhash}{ced05373d7ff2ab5039f30d4cb61763a}
+      \strng{authornamehash}{ced05373d7ff2ab5039f30d4cb61763a}
+      \strng{authorfullhash}{ced05373d7ff2ab5039f30d4cb61763a}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{Importance of an HR in a start-up}
+      \field{urlday}{23}
+      \field{urlmonth}{2}
+      \field{urlyear}{2017}
+      \field{year}{2014}
+      \field{urldateera}{ce}
+      \verb{url}
+      \verb http://timesofindia.indiatimes.com/life-style/relationships/work/Importance-of-an-HR-in-a-start-up/articleshow/37070012.cms
+      \endverb
     \endentry
     \entry{RIES2011}{book}{}
       \name{author}{1}{}{%

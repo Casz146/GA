@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  21 FEB 2017 09:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  23 FEB 2017 20:35
 entering extended mode
 **"./161214 Plan of Approach.tex"
 ("161214 Plan of Approach.tex"
@@ -1007,18 +1007,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [3
 
 ]
-[4] [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[4] [5] [6]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 125.
 
- [6]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 124.
-
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 124.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 125.
  [7] [8]
 \openout3 = `"161214 Plan of Approach.ttt"'.
 
@@ -1034,19 +1030,19 @@ Package logreq Info: Writing requests to '"161214 Plan of Approach".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12263 strings out of 493333
- 204330 string characters out of 3139199
- 686723 words of memory out of 3000000
- 15593 multiletter control sequences out of 15000+200000
+ 12275 strings out of 493333
+ 204571 string characters out of 3139199
+ 686845 words of memory out of 3000000
+ 15605 multiletter control sequences out of 15000+200000
  39776 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,10n,56p,941b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,10n,56p,1884b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "161214 Plan of Approach.pdf" (12 pages, 102947 bytes).
+Output written on "161214 Plan of Approach.pdf" (12 pages, 104431 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

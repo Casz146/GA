@@ -20,14 +20,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Research Objective}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Research questions}{5}
+\contentsline {subsection}{Research questions}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Methodology}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Speaking to Instok employees}{6}
+\contentsline {subsection}{Speaking to Instok employees}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Peer company research}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Literature research}{8}
+\contentsline {subsection}{Literature research}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Chronograph}{9}
