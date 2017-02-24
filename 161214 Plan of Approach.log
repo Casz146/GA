@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  23 FEB 2017 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  24 FEB 2017 10:36
 entering extended mode
 **"./161214 Plan of Approach.tex"
 ("161214 Plan of Approach.tex"
@@ -1019,9 +1019,12 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
 \openout3 = `"161214 Plan of Approach.ttt"'.
 
 
-("161214 Plan of Approach".ttt) [9] [10]
-AED endfloat: Processing end Figures and Tables [11]
-("161214 Plan of Approach.ttt" [12
+("161214 Plan of Approach".ttt)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+[10] [11] AED endfloat: Processing end Figures and Tables [12]
+("161214 Plan of Approach.ttt" [13
 
 
 ]) ("161214 Plan of Approach.aux")
@@ -1030,10 +1033,10 @@ Package logreq Info: Writing requests to '"161214 Plan of Approach".run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12275 strings out of 493333
- 204571 string characters out of 3139199
- 686845 words of memory out of 3000000
- 15605 multiletter control sequences out of 15000+200000
+ 12277 strings out of 493333
+ 204593 string characters out of 3139199
+ 686873 words of memory out of 3000000
+ 15607 multiletter control sequences out of 15000+200000
  39776 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,10n,56p,1884b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1042,9 +1045,9 @@ iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "161214 Plan of Approach.pdf" (12 pages, 104431 bytes).
+Output written on "161214 Plan of Approach.pdf" (13 pages, 105283 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

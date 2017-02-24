@@ -30,4 +30,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Literature research}{9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Chronograph}{9}
+\contentsline {section}{Chronograph}{10}
