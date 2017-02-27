@@ -24,10 +24,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Methodology}{6}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Literature research}{7}
+\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Speaking to Instok employees}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Peer company research}{7}
+\contentsline {subsection}{Peer company research}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Literature research}{9}
+\contentsline {subsubsection}{Group 1}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Group 2}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Chronograph}{10}

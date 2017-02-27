@@ -2310,15 +2310,16 @@
     <bcf:citekey order="15">RIES2011</bcf:citekey>
     <bcf:citekey order="16">SNL2013</bcf:citekey>
     <bcf:citekey order="17">HRCA2016</bcf:citekey>
-    <bcf:citekey order="18">SANTANA2016</bcf:citekey>
+    <bcf:citekey order="18">TOLEDO2016</bcf:citekey>
     <bcf:citekey order="19">RIES2011</bcf:citekey>
-    <bcf:citekey order="20">BAKEREDWARDS2012</bcf:citekey>
-    <bcf:citekey order="21">SNL2013</bcf:citekey>
-    <bcf:citekey order="22">HUMBLE</bcf:citekey>
-    <bcf:citekey order="23">BAILEY2008</bcf:citekey>
-    <bcf:citekey order="24">THOMSON2014</bcf:citekey>
-    <bcf:citekey order="25">TOLEDO2016</bcf:citekey>
-    <bcf:citekey order="26">RIES2011</bcf:citekey>
+    <bcf:citekey order="20">SANTANA2016</bcf:citekey>
+    <bcf:citekey order="21">RIES2011</bcf:citekey>
+    <bcf:citekey order="22">RIES2011</bcf:citekey>
+    <bcf:citekey order="23">BAKEREDWARDS2012</bcf:citekey>
+    <bcf:citekey order="24">SNL2013</bcf:citekey>
+    <bcf:citekey order="25">HUMBLE</bcf:citekey>
+    <bcf:citekey order="26">BAILEY2008</bcf:citekey>
+    <bcf:citekey order="27">THOMSON2014</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt/global/" type="entry" sortscheme="nyt" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
