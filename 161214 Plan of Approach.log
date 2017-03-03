@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  27 FEB 2017 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.12.13)  3 MAR 2017 11:05
 entering extended mode
 **"./161214 Plan of Approach.tex"
 ("161214 Plan of Approach.tex"
@@ -865,19 +865,19 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 ("161214 Plan of Approach.aux")
 \openout1 = `"161214 Plan of Approach.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 58.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -960,13 +960,13 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '"161214 Plan of Approach".bbl' found.
 
 ("161214 Plan of Approach.bbl")
-Package biblatex Info: Reference section=0 on input line 57.
-Package biblatex Info: Reference segment=0 on input line 57.
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
 
 
 Class apa6 Warning: Abstract not defined.
 
-Class apa6 Info: Keywords not defined on input line 58.
+Class apa6 Info: Keywords not defined on input line 59.
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ]
@@ -1007,19 +1007,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [3
 
 ]
-[4] [5] [6] [7]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 133.
+[4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+[6] [7]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 137.
 
  ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 133.
- [8]
-[9]
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 137.
+ [8] [9]
 \openout3 = `"161214 Plan of Approach.ttt"'.
 
- ("161214 Plan of Approach".ttt) [10] [11]
+
+("161214 Plan of Approach".ttt) [10] [11]
 AED endfloat: Processing end Figures and Tables [12]
 ("161214 Plan of Approach.ttt" [13
 
@@ -1032,17 +1036,17 @@ Package logreq Info: Writing requests to '"161214 Plan of Approach".run.xml'.
 Here is how much of TeX's memory you used:
  12278 strings out of 493333
  204604 string characters out of 3139199
- 686893 words of memory out of 3000000
+ 686895 words of memory out of 3000000
  15608 multiletter control sequences out of 15000+200000
  39776 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,56p,1884b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,10n,56p,1884b,1749s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
 iKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lm
 r12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on "161214 Plan of Approach.pdf" (13 pages, 105806 bytes).
+Output written on "161214 Plan of Approach.pdf" (13 pages, 106170 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -14,24 +14,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Problem Orientation}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Client needs}{4}
+\contentsline {subsubsection}{Client problem}{4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{General problem}{4}
+\contentsline {subsubsection}{General problem}{5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Research Objective}{5}
+\contentsline {section}{Research Objective}{6}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Research questions}{6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Methodology}{6}
+\contentsline {section}{Methodology}{7}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Literature research}{7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{Speaking to Instok employees}{7}
+\contentsline {subsection}{Speaking to Instok employees}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{Peer company research}{8}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Group 1}{8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Group 2}{8}
+\contentsline {subsubsection}{Group 2}{9}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{Chronograph}{10}
