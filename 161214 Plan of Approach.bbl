@@ -165,6 +165,39 @@
       \verb http://www.forbes.com/sites/ciocentral/2012/04/09/the-3-things-startup-founders-needs-to-know-about-hr/#7c9bd97273c4
       \endverb
     \endentry
+    \entry{FUSCH2015}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=e8947fc51bee456ed9564c2e5f069403}{%
+           family={Fusch},
+           familyi={F\bibinitperiod},
+           given={Patricia\bibnamedelima I.},
+           giveni={P\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{uniquename=0,hash=13e796f9b8ac155730d2f0a072dec3c2}{%
+           family={Ness},
+           familyi={N\bibinitperiod},
+           given={Lawrence\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NOVA.edu}%
+      }
+      \strng{namehash}{94c9712bf0eabd5e53f0d376268f079c}
+      \strng{fullhash}{94c9712bf0eabd5e53f0d376268f079c}
+      \strng{authornamehash}{94c9712bf0eabd5e53f0d376268f079c}
+      \strng{authorfullhash}{94c9712bf0eabd5e53f0d376268f079c}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Qualitative Report}
+      \field{title}{Are We There Yet? Data Saturation in Qualitative Research}
+      \field{volume}{20}
+      \field{year}{2015}
+      \field{pages}{1408\bibrangedash 1416}
+      \range{pages}{9}
+    \endentry
     \entry{HRCA2016}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,hash=799378d4246e06bedba433ae46af9869}{%
@@ -214,6 +247,30 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Guide to Transcribing}
+    \endentry
+    \entry{MASON2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2638a03ffd630a4eb169eb017944bcc1}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{2638a03ffd630a4eb169eb017944bcc1}
+      \strng{fullhash}{2638a03ffd630a4eb169eb017944bcc1}
+      \strng{authornamehash}{2638a03ffd630a4eb169eb017944bcc1}
+      \strng{authorfullhash}{2638a03ffd630a4eb169eb017944bcc1}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Qualitative Social Research}
+      \field{month}{9}
+      \field{title}{Sample Size and Saturation in PhD Studies Using Qualitative Interviews}
+      \field{volume}{11}
+      \field{year}{2010}
     \endentry
     \entry{MUMBAI2014}{online}{}
       \name{author}{1}{}{%
